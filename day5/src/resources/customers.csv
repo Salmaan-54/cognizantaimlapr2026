@@ -1,0 +1,13 @@
+customer_id,first_name,last_name,email,phone_number
+1,John,Doe,john.doe@example.com,+1-555-0101
+2,Jane,Smith,jane.smith@example.com,+1-555-0102
+3,Michael,Brown,michael.brown@example.com,+1-555-0103
+4,Aisha,Khan,aisha.khan@example.com,+1-555-0104
+5,Carlos,Garcia,carlos.garcia@example.com,+1-555-0105
+6,Emily,Wilson,emily.wilson@example.com,+1-555-0106
+7,David,Lee,david.lee@example.com,+1-555-0107
+8,Priya,Sharma,priya.sharma@example.com,+1-555-0108
+9,Omar,Hassan,omar.hassan@example.com,+1-555-0109
+10,Sophia,Martinez,sophia.martinez@example.com,+1-555-0110
+11,Liam,Anderson,liam.anderson@example.com,+1-555-0111
+12,Nina,Petrov,nina.petrov@example.com,+1-555-0112

@@ -1,0 +1,86 @@
+[
+  {
+    "customer_id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "phone_number": "+1-555-0101"
+  },
+  {
+    "customer_id": 2,
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone_number": "+1-555-0102"
+  },
+  {
+    "customer_id": 3,
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "email": "michael.brown@example.com",
+    "phone_number": "+1-555-0103"
+  },
+  {
+    "customer_id": 4,
+    "first_name": "Aisha",
+    "last_name": "Khan",
+    "email": "aisha.khan@example.com",
+    "phone_number": "+1-555-0104"
+  },
+  {
+    "customer_id": 5,
+    "first_name": "Carlos",
+    "last_name": "Garcia",
+    "email": "carlos.garcia@example.com",
+    "phone_number": "+1-555-0105"
+  },
+  {
+    "customer_id": 6,
+    "first_name": "Emily",
+    "last_name": "Wilson",
+    "email": "emily.wilson@example.com",
+    "phone_number": "+1-555-0106"
+  },
+  {
+    "customer_id": 7,
+    "first_name": "David",
+    "last_name": "Lee",
+    "email": "david.lee@example.com",
+    "phone_number": "+1-555-0107"
+  },
+  {
+    "customer_id": 8,
+    "first_name": "Priya",
+    "last_name": "Sharma",
+    "email": "priya.sharma@example.com",
+    "phone_number": "+1-555-0108"
+  },
+  {
+    "customer_id": 9,
+    "first_name": "Omar",
+    "last_name": "Hassan",
+    "email": "omar.hassan@example.com",
+    "phone_number": "+1-555-0109"
+  },
+  {
+    "customer_id": 10,
+    "first_name": "Sophia",
+    "last_name": "Martinez",
+    "email": "sophia.martinez@example.com",
+    "phone_number": "+1-555-0110"
+  },
+  {
+    "customer_id": 11,
+    "first_name": "Liam",
+    "last_name": "Anderson",
+    "email": "liam.anderson@example.com",
+    "phone_number": "+1-555-0111"
+  },
+  {
+    "customer_id": 12,
+    "first_name": "Nina",
+    "last_name": "Petrov",
+    "email": "nina.petrov@example.com",
+    "phone_number": "+1-555-0112"
+  }
+]

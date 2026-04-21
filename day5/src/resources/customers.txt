@@ -1,0 +1,75 @@
+Customer Data
+=================
+
+Customer ID   : 1
+First Name    : John
+Last Name     : Doe
+Email         : john.doe@example.com
+Phone Number  : +1-555-0101
+------------------------------
+Customer ID   : 2
+First Name    : Jane
+Last Name     : Smith
+Email         : jane.smith@example.com
+Phone Number  : +1-555-0102
+------------------------------
+Customer ID   : 3
+First Name    : Michael
+Last Name     : Brown
+Email         : michael.brown@example.com
+Phone Number  : +1-555-0103
+------------------------------
+Customer ID   : 4
+First Name    : Aisha
+Last Name     : Khan
+Email         : aisha.khan@example.com
+Phone Number  : +1-555-0104
+------------------------------
+Customer ID   : 5
+First Name    : Carlos
+Last Name     : Garcia
+Email         : carlos.garcia@example.com
+Phone Number  : +1-555-0105
+------------------------------
+Customer ID   : 6
+First Name    : Emily
+Last Name     : Wilson
+Email         : emily.wilson@example.com
+Phone Number  : +1-555-0106
+------------------------------
+Customer ID   : 7
+First Name    : David
+Last Name     : Lee
+Email         : david.lee@example.com
+Phone Number  : +1-555-0107
+------------------------------
+Customer ID   : 8
+First Name    : Priya
+Last Name     : Sharma
+Email         : priya.sharma@example.com
+Phone Number  : +1-555-0108
+------------------------------
+Customer ID   : 9
+First Name    : Omar
+Last Name     : Hassan
+Email         : omar.hassan@example.com
+Phone Number  : +1-555-0109
+------------------------------
+Customer ID   : 10
+First Name    : Sophia
+Last Name     : Martinez
+Email         : sophia.martinez@example.com
+Phone Number  : +1-555-0110
+------------------------------
+Customer ID   : 11
+First Name    : Liam
+Last Name     : Anderson
+Email         : liam.anderson@example.com
+Phone Number  : +1-555-0111
+------------------------------
+Customer ID   : 12
+First Name    : Nina
+Last Name     : Petrov
+Email         : nina.petrov@example.com
+Phone Number  : +1-555-0112
+------------------------------
