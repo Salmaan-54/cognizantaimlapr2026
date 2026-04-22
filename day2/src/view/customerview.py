@@ -6,6 +6,6 @@ class CustomerView:
         self.customer_store = customer_store
 
     def display_customers(self):
-        customers = self.customer_store.get_customer()
+        customers = self.customer_store.get_customers()
         for customer in customers:
             print(customer)

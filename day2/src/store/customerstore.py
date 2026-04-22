@@ -16,5 +16,5 @@ class CustomerStore:
             customers.append(Customer(name, email, dob))
         return customers
 
-    def get_customer(self):
+    def get_customers(self):
         return self.customers
