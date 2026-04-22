@@ -1,7 +1,7 @@
 [
   {
     "customer_id": 1,
-    "first_name": "John",
+    "first_name": "JSON",
     "last_name": "Doe",
     "email": "john.doe@example.com",
     "phone_number": "+1-555-0101"

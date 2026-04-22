@@ -1,19 +1,10 @@
-""" create patient crud operation """
-
-import sys
-import os
-
-#Add project root to Python path
-project_root = os.path.abspath(
-    os.path.join(os.path.dirname(__file__), '..', '..')
-)
-sys.path.append(project_root)
+"""Patient CRUD operations."""
 
 from conf.logger_conf import setup_logger
-from exceptions.patient_not_found_exception import PatientNotFoundException
-from models.patient import Patient
+from src.exceptions.patient_not_found_exception import PatientNotFoundException
+from src.models.patient import Patient
 
-logger = setup_logger()
+logger = setup_logger("PatientStore.log")
 
 class PatientStore:
     """

@@ -23,6 +23,12 @@ class CustomerStoreImpl(CustomerStore):
                 return True
         raise CustomerNotFoundException(customer_id)
     
+    def get_customer_by_id(self, customer_id):
+        for customer in self.customer:
+            if customer.customer_id == customer_id:
+                return customer
+        raise CustomerNotFoundException(customer_id)    
+    
     def delete_customer(self, customer_id):
         for i in range(len(self.customer)):
             if self.customer[i].customer_id == customer_id:

@@ -1,0 +1,86 @@
+2026-04-17 06:52:43 - DoctorStore - INFO - Adding doctor: Doctor(id=1, name='Jordan May', specialization='Urology')
+2026-04-17 06:52:43 - DoctorStore - INFO - Adding doctor: Doctor(id=2, name='Hannah Beck', specialization='Hematology')
+2026-04-17 06:52:43 - DoctorStore - INFO - Adding doctor: Doctor(id=3, name='Donna Mcclure', specialization='Oncology')
+2026-04-17 06:52:43 - DoctorStore - INFO - Adding doctor: Doctor(id=4, name='Lori Chapman', specialization='Cardiology')
+2026-04-17 06:52:43 - DoctorStore - INFO - Adding doctor: Doctor(id=5, name='Joseph Ramirez', specialization='Dermatology')
+2026-04-17 06:52:43 - DoctorStore - INFO - Adding doctor: Doctor(id=6, name='Jessica Gonzales', specialization='Pediatrics')
+2026-04-17 06:52:43 - DoctorStore - INFO - Adding doctor: Doctor(id=7, name='Stephanie Mcdonald', specialization='Otolaryngology')
+2026-04-17 06:52:43 - DoctorStore - INFO - Adding doctor: Doctor(id=8, name='Thomas Clark', specialization='Orthopedics')
+2026-04-17 06:52:43 - DoctorStore - INFO - Adding doctor: Doctor(id=9, name='Diane Ho', specialization='Urology')
+2026-04-17 06:52:43 - DoctorStore - INFO - Adding doctor: Doctor(id=10, name='Timothy Bell', specialization='Psychiatry')
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 06:52:43 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Adding doctor: Doctor(id=1, name='Wendy Young', specialization='Urology')
+2026-04-17 08:51:58 - DoctorStore - INFO - Adding doctor: Doctor(id=2, name='Jason Johnson', specialization='Gynecology')
+2026-04-17 08:51:58 - DoctorStore - INFO - Adding doctor: Doctor(id=3, name='Jeff Rogers', specialization='Pulmonology')
+2026-04-17 08:51:58 - DoctorStore - INFO - Adding doctor: Doctor(id=4, name='William Austin', specialization='Dermatology')
+2026-04-17 08:51:58 - DoctorStore - INFO - Adding doctor: Doctor(id=5, name='Frank Gutierrez', specialization='Orthopedics')
+2026-04-17 08:51:58 - DoctorStore - INFO - Adding doctor: Doctor(id=6, name='Angelica Greer', specialization='Allergy and Immunology')
+2026-04-17 08:51:58 - DoctorStore - INFO - Adding doctor: Doctor(id=7, name='William Sullivan', specialization='Rheumatology')
+2026-04-17 08:51:58 - DoctorStore - INFO - Adding doctor: Doctor(id=8, name='Teresa Atkins', specialization='Cardiology')
+2026-04-17 08:51:58 - DoctorStore - INFO - Adding doctor: Doctor(id=9, name='Cynthia Garza', specialization='Infectious Disease')
+2026-04-17 08:51:58 - DoctorStore - INFO - Adding doctor: Doctor(id=10, name='Vickie Robinson', specialization='Endocrinology')
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 08:51:58 - DoctorStore - INFO - Getting all doctors
+2026-04-17 10:58:08 - DoctorStore - INFO - Getting doctor by id: 999
+2026-04-17 10:59:14 - DoctorStore - INFO - Getting doctor by id: 999
+2026-04-17 10:59:27 - DoctorStore - INFO - Getting doctor by id: 999
+2026-04-17 10:59:42 - DoctorStore - INFO - Getting doctor by id: 999

@@ -1,0 +1,122 @@
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=1, name='Kevin Wood', dob='1948-02-16', ailment='Hypertension')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=2, name='Brandon Wilson', dob='1967-03-30', ailment='Allergy')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=3, name='Steven Russell', dob='1958-10-28', ailment='Allergy')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=4, name='James Galvan', dob='1962-09-19', ailment='Cold')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=5, name='Brett Duncan', dob='1970-07-18', ailment='Depression')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=6, name='Paul Owen', dob='2005-10-29', ailment='Back Pain')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=7, name='Mrs. Paige Nelson', dob='1957-05-06', ailment='Arthritis')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=8, name='Andrew Cook', dob='1976-06-13', ailment='Arthritis')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=9, name='Tanya Hayes', dob='1978-02-09', ailment='Diabetes')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=10, name='Valerie Johnson', dob='1956-03-11', ailment='Diabetes')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=11, name='Sandra Jefferson', dob='1979-10-06', ailment='Back Pain')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=12, name='Jessica Sullivan', dob='1997-05-26', ailment='Back Pain')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=13, name='Christopher Sullivan', dob='1998-04-26', ailment='Back Pain')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=14, name='Tony Martinez', dob='1960-04-18', ailment='Infection')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=15, name='Kurt Johnson', dob='2004-12-09', ailment='Asthma')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=16, name='Jonathan Nelson', dob='1948-02-03', ailment='Stroke')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=17, name='Charles Taylor', dob='1991-03-04', ailment='Asthma')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=18, name='Rachel Boyd', dob='1951-08-21', ailment='Flu')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=19, name='Brandon Williams', dob='1981-07-31', ailment='Ear Infection')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=20, name='Jimmy Casey', dob='1993-07-11', ailment='Skin Rash')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=21, name='Melissa Duncan', dob='1993-08-17', ailment='Anxiety')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=22, name='Duane Valdez', dob='2006-01-15', ailment='Asthma')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=23, name='Christopher Anderson', dob='1968-03-09', ailment='Heart Disease')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=24, name='Jonathan Aguirre', dob='1961-08-20', ailment='Cancer')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=25, name='Cheryl Ballard', dob='1975-05-24', ailment='Allergy')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=26, name='Tamara Gross', dob='1946-09-19', ailment='Heart Disease')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=27, name='Nathaniel Randall', dob='1961-09-21', ailment='Hypertension')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=28, name='Carlos Stone', dob='1982-07-12', ailment='Infection')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=29, name='Sara Abbott', dob='1991-08-31', ailment='Flu')
+2026-04-17 06:52:43 - PatientStore - INFO - Adding patient: Patient(id=30, name='Kendra Garza', dob='2008-01-02', ailment='Infection')
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 06:52:43 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=1, name='Anne Frank', dob='1952-04-05', ailment='Stroke')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=2, name='Grant Thompson', dob='1999-09-07', ailment='Ear Infection')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=3, name='Amy Garcia', dob='1964-07-05', ailment='Allergy')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=4, name='Alex Nguyen', dob='1962-05-01', ailment='Migraine')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=5, name='Sarah Vargas', dob='1985-02-23', ailment='Anxiety')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=6, name='Randy Schaefer', dob='1992-06-06', ailment='Flu')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=7, name='Dustin Simon', dob='1972-03-05', ailment='Migraine')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=8, name='Robin Robinson', dob='1988-02-17', ailment='Eye Infection')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=9, name='Melissa Scott', dob='1994-04-25', ailment='Stroke')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=10, name='Morgan Sullivan', dob='1955-05-22', ailment='Allergy')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=11, name='Kelly Rose', dob='1984-04-13', ailment='Stroke')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=12, name='Linda Andrade', dob='2007-04-17', ailment='Cancer')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=13, name='Paul Mcintyre', dob='2000-07-08', ailment='Diabetes')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=14, name='Mark Cain', dob='1962-12-28', ailment='Depression')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=15, name='Jeremy Rodriguez', dob='1950-03-06', ailment='Depression')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=16, name='Randy Mullins', dob='1968-03-13', ailment='Heart Disease')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=17, name='David Rodriguez', dob='2004-03-26', ailment='Stroke')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=18, name='Mr. Jason Malone', dob='1947-06-30', ailment='Arthritis')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=19, name='Dawn Fleming', dob='1993-06-23', ailment='Back Pain')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=20, name='Michael Smith', dob='1977-01-03', ailment='Infection')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=21, name='Michelle Mosley', dob='1969-07-03', ailment='Arthritis')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=22, name='Shawn Bray', dob='2002-12-05', ailment='Asthma')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=23, name='Katherine Washington', dob='1978-06-01', ailment='Cancer')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=24, name='Sarah Hughes', dob='2004-06-21', ailment='Ear Infection')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=25, name='Michael Phillips', dob='1992-02-23', ailment='Eye Infection')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=26, name='Susan Thompson', dob='1982-08-24', ailment='Diabetes')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=27, name='Todd Weber', dob='1967-08-29', ailment='Hypertension')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=28, name='Rebecca Hutchinson', dob='1997-01-13', ailment='Anxiety')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=29, name='Amanda Williams', dob='2003-10-09', ailment='Stroke')
+2026-04-17 08:51:58 - PatientStore - INFO - Adding patient: Patient(id=30, name='Tammy Hickman', dob='2000-09-02', ailment='Back Pain')
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients
+2026-04-17 08:51:58 - PatientStore - INFO - Getting all patients

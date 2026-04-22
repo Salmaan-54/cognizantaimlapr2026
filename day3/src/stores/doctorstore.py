@@ -1,20 +1,18 @@
-""" create doctor crud operation"""
-import sys
+"""Doctor CRUD operations."""
+
+#get absolute path of doctorstore.py
 import os
-
-from models.doctor import Doctor
-
-#Add project root to Python path
+import sys
 project_root = os.path.abspath(
     os.path.join(os.path.dirname(__file__), '..', '..')
 )
-
 sys.path.append(project_root)
 
+from src.models.doctor import Doctor
 from conf.logger_conf import setup_logger
-from exceptions.doctor_not_found_exception import DoctorNotFoundException
+from src.exceptions.doctor_not_found_exception import DoctorNotFoundException
 
-logger = setup_logger()
+logger = setup_logger("DoctorStore.log")
 
 class DoctorStore:
     """
@@ -38,7 +36,7 @@ class DoctorStore:
         for doctor in self.doctors:
             if doctor.id == id:
                 return doctor
-        raise DoctorNotFoundException(f"Doctor with id {id} not found")
+        raise DoctorNotFoundException(f"Doctor with id {id} not found.")
     
     def get_all_doctors(self) -> list:
         """

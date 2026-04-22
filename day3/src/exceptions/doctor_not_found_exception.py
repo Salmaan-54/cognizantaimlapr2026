@@ -11,6 +11,5 @@ class DoctorNotFoundException(Exception):
         super().__init__(self.message)
     
     def __str__(self):
-        return f"DoctorNotFoundException: {self.message}"
-    
+        return self.message
     

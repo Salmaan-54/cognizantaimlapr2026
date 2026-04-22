@@ -1,5 +1,5 @@
 customer_id,first_name,last_name,email,phone_number
-1,John,Doe,john.doe@example.com,+1-555-0101
+1,CSV,Doe,john.doe@example.com,+1-555-0101
 2,Jane,Smith,jane.smith@example.com,+1-555-0102
 3,Michael,Brown,michael.brown@example.com,+1-555-0103
 4,Aisha,Khan,aisha.khan@example.com,+1-555-0104

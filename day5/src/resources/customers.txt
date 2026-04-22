@@ -2,8 +2,8 @@ Customer Data
 =================
 
 Customer ID   : 1
-First Name    : John
-Last Name     : Doe
+First Name    : Text
+Last Name     : File
 Email         : john.doe@example.com
 Phone Number  : +1-555-0101
 ------------------------------
