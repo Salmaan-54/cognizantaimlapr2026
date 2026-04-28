@@ -1,0 +1,6 @@
+pyproject.toml
+ecommerce_crud.egg-info/PKG-INFO
+ecommerce_crud.egg-info/SOURCES.txt
+ecommerce_crud.egg-info/dependency_links.txt
+ecommerce_crud.egg-info/requires.txt
+ecommerce_crud.egg-info/top_level.txt
